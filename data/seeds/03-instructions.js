@@ -21,7 +21,7 @@ exports.seed = function(knex) {
 			ingredient_id: 7
 		},
 		{
-			step: 'add red saice',
+			step: 'add red sauce',
 			quantityGrams: 200,
 			recipe_id: 2,
 			ingredient_id: 5
